@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "226f7a134dccaf72",
+    "type": "split",
+    "children": [
+      {
+        "id": "018568d4ee937d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdd2841dbfaf2590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ab05541852567f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Cookies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5811b2651a198470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1154ddbc6ed8da06",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e44f36c614b3b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9acd4f3165a9563",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "105fe7501e678c8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4ae1633e0448687",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0051ef72ef0c3d8b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "749132619aec5ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b80a504621ff0070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6423ece86597aa05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Frontend/Cookies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "860287ca1aea3f0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Frontend/Cookies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55fdc76411e3661c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53632e697a2893d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Frontend/Cookies.md"
+              }
+            }
+          },
+          {
+            "id": "88910a5197994321",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b8ab05541852567f",
+  "lastOpenFiles": [
+    "Obsidian Syntax.md",
+    "Frontend/Cookies.md",
+    "Networking/Private and Public IP Address Space.md",
+    "Frontend",
+    "Networking/Private IP Address.md",
+    "Networking/Socket.md",
+    "Networking/HTTP Headers.md",
+    "Networking/Subnet.md",
+    "Images",
+    "Images/Pasted image 20231011155859.png",
+    "Images/Pasted image 20231011130806.png",
+    "Networking/Pasted image 20231011133530.png",
+    "Networking/NAT.md",
+    "Private IP Address.md",
+    "Networking/DHCP.md",
+    "Networking",
+    "2023-10-11.md"
+  ]
+}
