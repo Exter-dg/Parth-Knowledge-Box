@@ -1,4 +1,4 @@
-- ==Access-Control-Allow-Crendentials== must be set to <u><b>true</b></u> in response when sending cookies.
+- ==Access-Control-Allow-Crendentials== [[HTTP Headers]] must be set to <u><b>true</b></u> in response when sending cookies.
 - ==Server== sends this header in response to the preflight request.
 - This header is part of the [[CORS]].
 - Refer [MDN - Access-Control-Allow-Credentials](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Credentials)

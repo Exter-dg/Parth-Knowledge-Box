@@ -1,32 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Cookies",
-      "path": "Frontend/Cookies.md"
+      "basename": "Docker",
+      "path": "Networking/Docker.md"
+    },
+    {
+      "basename": "Virtual Machines vs Containers",
+      "path": "Networking/Virtual Machines vs Containers.md"
     },
     {
       "basename": "Obsidian Syntax",
       "path": "Obsidian Syntax.md"
     },
     {
-      "basename": "Private and Public IP Address Space",
-      "path": "Networking/Private and Public IP Address Space.md"
+      "basename": "Subnet",
+      "path": "Networking/Subnet.md"
     },
     {
-      "basename": "Private IP Address",
-      "path": "Networking/Private IP Address.md"
+      "basename": "SSH",
+      "path": "Networking/SSH.md"
     },
     {
       "basename": "Socket",
       "path": "Networking/Socket.md"
     },
     {
+      "basename": "AWS - VPC EC2 Subnet Connection with Internet",
+      "path": "Networking/AWS - VPC EC2 Subnet Connection with Internet.md"
+    },
+    {
+      "basename": "Private IP Address",
+      "path": "Networking/Private IP Address.md"
+    },
+    {
+      "basename": "Private and Public IP Address Space",
+      "path": "Networking/Private and Public IP Address Space.md"
+    },
+    {
       "basename": "HTTP Headers",
       "path": "Networking/HTTP Headers.md"
     },
     {
-      "basename": "Subnet",
-      "path": "Networking/Subnet.md"
+      "basename": "Cookies",
+      "path": "Frontend/Cookies.md"
+    },
+    {
+      "basename": "LS command",
+      "path": "Bash/LS command.md"
     },
     {
       "basename": "Pasted image 20231011130806",
