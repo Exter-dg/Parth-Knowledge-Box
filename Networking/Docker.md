@@ -7,4 +7,5 @@
 | docker image ls                 | List images in docker                        |
 | docker ps                       | To list running images (containers)          |
 | run --name option               | Provide a name to container while running    |
-| docker stop <container_id/name> | Stop a container                                             |
+| docker stop <container_id/name> | Stop a container                             |
+| run -p localPort:ContainerPort                             | Expose port                                             |

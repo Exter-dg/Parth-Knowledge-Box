@@ -9,3 +9,11 @@
 
 
 - Private subnets are connected to the internet using ==NAT Gateway==
+
+
+## Security Groups
+
+- Inbound rules control ==who can access the EC2 instance from OUTSIDE==
+- Outbound rules control who can the ec2 instance access.
+  
+  An inbound rule at port 22 and NO outbound rules, allows an SSH connection with the EC2 instance. 

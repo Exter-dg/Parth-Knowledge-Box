@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5b7111ed7f63e492",
+        "id": "8c83a5b93d28c617",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c203cd94a87a62",
+            "id": "fedb71e9db639eb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/LS command.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6348c0112bf2ffb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406d766a760c3345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Virtual Machines vs Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ea7acb4b5bacce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6877d48919df016f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Syntax.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networking/Docker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,28 +156,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ea7acb4b5bacce6",
+  "active": "fedb71e9db639eb3",
   "lastOpenFiles": [
-    "Networking/Virtual Machines vs Containers.md",
-    "Networking/Docker.md",
     "Obsidian Syntax.md",
+    "Networking/Route Table.md",
+    "Networking/AWS - VPC EC2 Subnet Connection with Internet.md",
+    "Frontend/Cookies.md",
+    "Mindstix Tasks/Give file permissions to LDAP groups.md",
     "Networking/Subnet.md",
     "Networking/SSH.md",
     "Networking/Socket.md",
-    "Networking/AWS - VPC EC2 Subnet Connection with Internet.md",
+    "Networking/NAT.md",
+    "Mindstix Tasks",
+    "Networking/VPC.md",
+    "Networking/Virtual Machines vs Containers.md",
+    "Bash/LS command.md",
     "Networking/Private IP Address.md",
     "Networking/Private and Public IP Address Space.md",
     "Networking/HTTP Headers.md",
-    "Frontend/Cookies.md",
+    "Networking/Docker.md",
+    "Networking/Subnett.md",
     "Images/Pasted image 20231012175606.png",
-    "Bash/LS command.md",
     "Bash",
     "Frontend",
     "Images",
     "Images/Pasted image 20231011155859.png",
     "Images/Pasted image 20231011130806.png",
     "Networking/Pasted image 20231011133530.png",
-    "Networking/NAT.md",
     "Private IP Address.md",
     "Networking/DHCP.md",
     "Networking",

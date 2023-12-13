@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker",
-      "path": "Networking/Docker.md"
-    },
-    {
-      "basename": "Virtual Machines vs Containers",
-      "path": "Networking/Virtual Machines vs Containers.md"
-    },
-    {
       "basename": "Obsidian Syntax",
       "path": "Obsidian Syntax.md"
+    },
+    {
+      "basename": "Route Table",
+      "path": "Networking/Route Table.md"
+    },
+    {
+      "basename": "AWS - VPC EC2 Subnet Connection with Internet",
+      "path": "Networking/AWS - VPC EC2 Subnet Connection with Internet.md"
+    },
+    {
+      "basename": "Cookies",
+      "path": "Frontend/Cookies.md"
+    },
+    {
+      "basename": "Give file permissions to LDAP groups",
+      "path": "Mindstix Tasks/Give file permissions to LDAP groups.md"
     },
     {
       "basename": "Subnet",
@@ -25,8 +33,20 @@
       "path": "Networking/Socket.md"
     },
     {
-      "basename": "AWS - VPC EC2 Subnet Connection with Internet",
-      "path": "Networking/AWS - VPC EC2 Subnet Connection with Internet.md"
+      "basename": "NAT",
+      "path": "Networking/NAT.md"
+    },
+    {
+      "basename": "VPC",
+      "path": "Networking/VPC.md"
+    },
+    {
+      "basename": "Virtual Machines vs Containers",
+      "path": "Networking/Virtual Machines vs Containers.md"
+    },
+    {
+      "basename": "LS command",
+      "path": "Bash/LS command.md"
     },
     {
       "basename": "Private IP Address",
@@ -41,12 +61,8 @@
       "path": "Networking/HTTP Headers.md"
     },
     {
-      "basename": "Cookies",
-      "path": "Frontend/Cookies.md"
-    },
-    {
-      "basename": "LS command",
-      "path": "Bash/LS command.md"
+      "basename": "Docker",
+      "path": "Networking/Docker.md"
     },
     {
       "basename": "Pasted image 20231011130806",
